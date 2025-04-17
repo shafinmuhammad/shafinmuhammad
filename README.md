@@ -32,3 +32,9 @@ I'm an AI & Data Engineering student from 🇮🇳 India, driven by a deep passi
 </p>
 
 ---
+📱 **Social Links**
+
+<p align="left">
+  <a href="https://github.com/shafinmuhammad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+  <a href="https://www.linkedin.com/in/fasil-rahman" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+</p>
