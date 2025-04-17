@@ -5,7 +5,7 @@
 <br><br><br>
 
 <div style="margin-top: 50px;">
-  <img align="left" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+  <img align="lower-right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
 </div>
 
 
