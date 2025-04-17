@@ -2,13 +2,14 @@
 <p align="center">🚀 AI Data Engineering Student | 🧠 Passionate about ML, DL, and Cloud Tech</p>
 
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
 
 ---
 
 🎓About Me
 
-I'm an AI & Data Engineering student from 🇮🇳 India, driven by a deep passion for building intelligent systems that solve real-world challenges. I specialize in Data Science, Machine Learning, and Deep Learning, and I'm constantly exploring new technologies to expand my skill set and make meaningful contributions.
+I'm an AI & Data Engineering student from 🇮🇳 India, driven by a deep passion for building intelligent systems that solve real-world challenges. I specialize in Data Science, Machine Learning, and Deep Learning,
+and I'm constantly exploring new technologies to expand my skill set and make meaningful contributions.
 
 
 
