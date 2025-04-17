@@ -39,6 +39,6 @@ and I'm constantly exploring new technologies to expand my skill set and make me
 <p align="left">
   <a href="https://github.com/shafinmuhammad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://https://www.linkedin.com/in/shafin-muhammad/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="https://en.wikipedia.org/wiki/File:Kaggle_Logo.svg" width="32" /></a>
+  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" width="32" /></a>
 
 </p>
