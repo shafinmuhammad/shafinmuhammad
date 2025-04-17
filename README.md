@@ -4,8 +4,9 @@
 
 <br><br><br>
 
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+<div style="margin-top: 50px;">
+  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+</div>
 
 
 
