@@ -39,6 +39,6 @@ and I'm constantly exploring new technologies to expand my skill set and make me
 <p align="left">
   <a href="https://github.com/shafinmuhammad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://https://www.linkedin.com/in/shafin-muhammad/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="\https://www.google.com/imgres?q=kaggle&imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1622730874517%2F3g7G6Hv-W.jpeg&imgrefurl=https%3A%2F%2Fgoldedem.hashnode.dev%2Fwhat-is-kaggle-and-why-should-i-be-in-it&docid=mUL8-D1l3IWFWM&tbnid=nO-R6xbY6ijw9M&vet=12ahUKEwjpw_Xa2N6MAxUbsVYBHcT4KeQQM3oECF0QAA..i&w=960&h=720&hcb=2&ved=2ahUKEwjpw_Xa2N6MAxUbsVYBHcT4KeQQM3oECF0QAA" width="32" /></a>
+  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="https://www.google.com/imgres?q=kaggle%20logo&imgurl=https%3A%2F%2Fwww.kaggle.com%2Fstatic%2Fimages%2Flogos%2Fk-logo-opengraph.png&imgrefurl=https%3A%2F%2Fwww.kaggle.com%2F&docid=KPn5jXKsLh6MxM&tbnid=yT4Ct3UDvlMB2M&vet=12ahUKEwi2wreO2d6MAxUySmwGHaTXJLgQM3oECBgQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwi2wreO2d6MAxUySmwGHaTXJLgQM3oECBgQAA" width="32" /></a>
 
 </p>
