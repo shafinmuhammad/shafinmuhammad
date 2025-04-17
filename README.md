@@ -2,7 +2,10 @@
 <p align="center">🚀 AI Data Engineering Student | 🧠 Passionate about ML, DL, and Cloud Tech</p>
 
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+<img align="right" alt="Coding" width="300" 
+     src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" 
+     style="margin-top: 50px;">
+
 
 ---
 
