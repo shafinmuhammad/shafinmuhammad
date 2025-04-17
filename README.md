@@ -1,10 +1,17 @@
-👋 Hi, I’m @shafinmuhammad
-🔍 Interests: Machine Learning, Python
-📚 Currently Learning: AI & ML Diploma Course
-🤝 Looking to Collaborate On: AI and Machine Learning projects
-📫 How to Reach Me: shafin01123@gmail.com
-⚡ Fun Fact: I’m passionate about AI and building projects that solve real-world problems!
-<!---
-shafinmuhammad/shafinmuhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there! 👋 I'm Fasil Rahman TK </h1>
+<p align="center">🚀 AI Data Engineering Student | 🧠 Passionate about ML, DL, and Cloud Tech</p>
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+
+---
+
+🎓 **About Me**
+
+I'm an AI Data Engineering student based in 🇮🇳 India with a strong passion for building intelligent systems and solving real-world problems using Data Science, Machine Learning, and Deep Learning. Always exploring, always learning.
+
+- 📫 Reach me at: **[fasilpersonal07@gmil.com](mailto:fasilpersonal07@gmail.com)**
+- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/fasil-rahman)
+- 🌱 Currently diving deep into **Deep Learning**, **Streamlit**, and **AWS**
+- ⚡ Fun Fact: I automate my life with Python scripts 😄
+
+---
