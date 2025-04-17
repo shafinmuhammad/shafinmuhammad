@@ -39,6 +39,6 @@ and I'm constantly exploring new technologies to expand my skill set and make me
 <p align="left">
   <a href="https://github.com/shafinmuhammad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://https://www.linkedin.com/in/shafin-muhammad/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="https://www.google.com/imgres?q=kaggle&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1573129499343978498%2F03a7wgfE_400x400.jpg&imgrefurl=https%3A%2F%2Fx.com%2Fkaggle&docid=9wfWmOVI5jcj4M&tbnid=QNK-EBHlr9RB8M&vet=12ahUKEwjRx7jK196MAxV-sFYBHT0DDsYQM3oECFEQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwjRx7jK196MAxV-sFYBHT0DDsYQM3oECFEQAA" width="32" /></a>
+  <a href="https://www.kaggle.com/mushafin" target="_blank"><img src="\https://www.google.com/imgres?q=kaggle&imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1622730874517%2F3g7G6Hv-W.jpeg&imgrefurl=https%3A%2F%2Fgoldedem.hashnode.dev%2Fwhat-is-kaggle-and-why-should-i-be-in-it&docid=mUL8-D1l3IWFWM&tbnid=nO-R6xbY6ijw9M&vet=12ahUKEwjpw_Xa2N6MAxUbsVYBHcT4KeQQM3oECF0QAA..i&w=960&h=720&hcb=2&ved=2ahUKEwjpw_Xa2N6MAxUbsVYBHcT4KeQQM3oECF0QAA" width="32" /></a>
 
 </p>
